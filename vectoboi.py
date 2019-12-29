@@ -1,3 +1,5 @@
+# You can use this code in any way you want. Like, really.
+
 import math
 import turtle
 
